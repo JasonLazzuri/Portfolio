@@ -10,13 +10,17 @@ img{
 .info{
   padding-top: 75px;
 }
-#top{
+#line{
   display: block;
   height: 10px;
   border: 0;
   border-top: 1px solid #ccc;
   margin: 1em 0;
   padding: 0;
+}
+
+#phone{
+  background-color: white;
 }
 
 
