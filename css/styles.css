@@ -66,3 +66,23 @@ img{
 #why{
   color: white;
 }
+
+.thing{
+  font-style: italic;
+}
+
+.hike{
+  width: 200px;
+  height: auto;
+  float: right;
+}
+.pc{
+  width: 200px;
+  height: auto;
+  float: left;
+}
+.hawks{
+  width: 200px;
+  height: auto;
+  float: right;
+}
