@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This webpage has information about some of my first projects created during my first week at Epicodus,my background, work history as well as interests and hobbies. I also have a little section about why I chose to go to coding school. Included in this is the best ways to get ahold of me which are conveniently located at the top of the page. }_
+_{This webpage has information about some of my first projects created during my first week at Epicodus,my background, work history as well as interests and hobbies. I also have a little section about why I chose to go to coding school. Included in this is the best ways to get ahold of me which are conveniently located at the top of the page. link:jasonlazzuri.github.io/portfolio}_
 
 ## Setup/Installation Requirements
 
